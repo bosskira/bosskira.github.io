@@ -1,23 +1,22 @@
 ---
-title: "Redmi Watch"
+title: "Nude Diamond (1/10 ct. t.w.) & Chocolate Diamond (1/6 ct. t.w.) Sun Pendant Necklace in 14k Gold"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/20696266_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/24460152_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/24656084_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
 
 # meta description
-description : "this is meta description"
+description : "https://www.macys.com/shop/product/le-vian-nude-diamond-1-10-ct.-t.w.-chocolate-diamond-1-6-ct.-t.w.-sun-pendant-necklace-in-14k-gold-18-2-extender?ID=13419468&isDlp=true"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "2700.00"
+discount_price: "1950.00"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+# colors : ["black","white","gray"]
+sizes : ["18 INCHES"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
@@ -25,4 +24,11 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+**Product Details**
+Light up your wardrobe with this stunning sun symbol Le Vian pendant necklace, set with Chocolate Diamonds® and Nude Diamonds™.
+
+**Chocolate Diamond®**: 1/6 ct. t.w.
+- **Nude Diamond™**: 1/10 ct. t.w.
+- **Set in**: 14k gold
+- **Approx. length**: 18"; approx. drop: 7/8"
+- **Lobster clasp closure**; cable link chain

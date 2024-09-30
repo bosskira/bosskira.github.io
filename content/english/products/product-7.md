@@ -1,22 +1,22 @@
 ---
-title: "OnePlus Watch"
+title: "Diamond Chain Link Ring (1/10 ct. t.w.) in Gold Vermeil, Created for Macy's"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-7.png"
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/25174064_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/25174065_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/25174066_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/25429379_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
 
 # meta description
-description : "this is meta description"
+description : "https://www.macys.com/shop/product/audrey-by-aurate-diamond-chain-link-ring-1-10-ct.-t.w.-in-gold-vermeil-created-for-macys?ID=16455019&isDlp=true"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "799.99"
+discount_price: "347.00"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+# colors : ["black","white","gray"]
+sizes : ["5.5","6","7"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
@@ -24,4 +24,13 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+**Product Details**
+A stylish chain link ring is topped with a single diamond - from Audrey by Aurate.
+
+**1/10 Carat Diamond Ring**
+- **Diamond Color Rating Code**: I-J
+- **Diamond Clarity Rating Code**: I2-I3
+- **Diamond Shape**: Round
+- **Set in**: gold vermeil; white rhodium
+- **Includes certified recycled materials**
+- **100% recycled gold plating**
