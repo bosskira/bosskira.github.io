@@ -1,6 +1,6 @@
 ---
-title: "Luxuril's Winter Collection"
+title: ""
 description : "this is a meta description"
-draft: true
+draft: false
 ---
 

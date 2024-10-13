@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luxuril&#39;s Winter Collection on Luxuril</title>
+    <title>Luxuril</title>
     <link>http://localhost:1313/products/</link>
-    <description>Recent content in Luxuril&#39;s Winter Collection on Luxuril</description>
+    <description>Recent content on Luxuril</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
@@ -15,6 +15,20 @@
       <pubDate>Wed, 30 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/products/product-5/</guid>
       <description>Product Details Light up your wardrobe with this stunning sun symbol Le Vian pendant necklace, set with Chocolate Diamonds® and Nude Diamonds™.</description>
+    </item>
+    <item>
+      <title>Blueberry Sapphire (1-1/2 ct. t.w.) &amp; Nude Diamond (1/5 ct. t.w.) Flower Statement Ring in 14k Rose Gold</title>
+      <link>http://localhost:1313/products/product-4/</link>
+      <pubDate>Tue, 29 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/product-4/</guid>
+      <description>Product Details Harness the fabulous power of flowers with this stunning Blueberry Sapphire™ and Nude Diamond™ statement ring from Le Vian.</description>
+    </item>
+    <item>
+      <title>Lab Grown Sapphire (1-1/2 ct. t.w.) and Lab Grown White Sapphire (1/5 ct. t.w.) Halo Ring in 10K Yellow Gold</title>
+      <link>http://localhost:1313/products/product-1/</link>
+      <pubDate>Mon, 28 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/product-1/</guid>
+      <description>Lab Created Sapphires vs. Mined Sapphires Attribute Lab Created Sapphire Mined Sapphire Is it a Sapphire? Yes Yes Can be Fake?</description>
     </item>
     <item>
       <title>Diamond Solitaire 18 Pendant Necklace (3/4 ct. t.w.) in 14k White Gold</title>
