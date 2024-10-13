@@ -8,8 +8,8 @@ images:
 description : "https://www.macys.com/shop/product/macys-lab-grown-sapphire-1-1-2-ct.-t.w.-lab-grown-white-sapphire-1-5-ct.-t.w.-halo-ring-in-10k-yellow-gold?ID=14878780"
 
 # product Price
-price: "01.00"
-discount_price: "0.01"
+price: "02.00"
+discount_price: "1.00"
 
 # product variation
 # colors : ["black","white","gray"]
