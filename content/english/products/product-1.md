@@ -1,6 +1,6 @@
 ---
 title: "Sapphire Halo Ring in 10K Yellow Gold"
-date: 2019-10-28T11:22:16+06:00
+date: 2019-10-31T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/22816995_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
   - "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/22816996_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
