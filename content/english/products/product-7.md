@@ -1,22 +1,24 @@
 ---
-title: "Diamond Chain Link Ring (1/10 ct. t.w.) in Gold Vermeil"
-date: 2019-10-20T11:22:16+06:00
+title: "Lab Grown Sapphire (1-1/2 ct. t.w.) and Lab Grown White Sapphire (1/5 ct. t.w.) Halo Ring in 10K Yellow Gold"
+date: 2019-10-28T11:22:16+06:00
 images: 
-  - "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/25174064_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
-  - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/25174065_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
-  - "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/25174066_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
-  - "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/25429379_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/22816995_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/22816996_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/22816998_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
+  - "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/22816997_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
+  
+
 
 # meta description
-description : "https://www.macys.com/shop/product/audrey-by-aurate-diamond-chain-link-ring-1-10-ct.-t.w.-in-gold-vermeil-created-for-macys?ID=16455019&isDlp=true"
+description : "https://www.macys.com/shop/product/grown-with-love-igi-certified-lab-grown-diamond-marquise-1-ct.-t.w.-band-in-14k-white-gold?ID=17216152&isDlp=true"
 
 # product Price
-price: "799.99"
-discount_price: "347.00"
+price: "2000.00"
+discount_price: "1399.99"
 
 # product variation
 # colors : ["black","white","gray"]
-sizes : ["5.5","6","7"]
+sizes : ["6","7","8","9","10"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
@@ -24,13 +26,13 @@ button_link: "#"
 draft: false
 ---
 
-**Product Details**
-A stylish chain link ring is topped with a single diamond - from Audrey by Aurate.
+# Lab Created Sapphires vs. Mined Sapphires
 
-**1/10 Carat Diamond Ring**
-- **Diamond Color Rating Code**: I-J
-- **Diamond Clarity Rating Code**: I2-I3
-- **Diamond Shape**: Round
-- **Set in**: gold vermeil; white rhodium
-- **Includes certified recycled materials**
-- **100% recycled gold plating**
+| Attribute             | Lab Created Sapphire | Mined Sapphire        |
+|-----------------------|---------------------|----------------------|
+| Is it a Sapphire?      | Yes                 | Yes                  |
+| Can be Fake?          | No                  | Yes                  |
+| Is it Certified?      | Yes                 | Yes                  |
+| Chemical Composition  | Al₂O₃              | Al₂O₃               |
+| Source of Sapphires    | Created in a lab    | Mined from the earth |
+| Origin Conflict Free  | Yes                 | Possibly             |

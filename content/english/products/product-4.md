@@ -21,7 +21,7 @@ sizes : ["6","7","8","9","10"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: false
+draft: true
 ---
 
 **Product Details**
