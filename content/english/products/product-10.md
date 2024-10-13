@@ -1,5 +1,5 @@
 ---
-title: "Multicolor Sapphire & Silver Pave Star"
+title: "Sterling Silver Multicolor Sapphire Pave Star"
 date: 2019-10-21T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/939537_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

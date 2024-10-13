@@ -1,5 +1,5 @@
 ---
-title: "Diamond Heart Pendant Necklace (1/2 ct. t.w.) in 14k White"
+title: "Diamond Heart Pendant Necklace in 14k White Gold"
 date: 2019-10-26T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/15450565_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

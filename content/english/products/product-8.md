@@ -1,5 +1,5 @@
 ---
-title: "Tube Linear Drop Earrings"
+title: "Tube Linear Drop Earrings in in 14k Gold"
 date: 2019-10-19T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/25590103_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

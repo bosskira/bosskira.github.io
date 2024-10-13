@@ -1,5 +1,5 @@
 ---
-title: "Blueberry Sapphire (1-1/2 ct. t.w.) & Nude Diamond (1/5 ct. t.w.) Flower Statement Ring in 14k Rose Gold"
+title: "Blueberry Sapphire Flower Statement Ring in 14k Rose Gold & Diamond"
 date: 2019-10-29T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/19147359_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

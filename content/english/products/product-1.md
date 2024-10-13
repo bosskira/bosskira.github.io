@@ -1,5 +1,5 @@
 ---
-title: "Lab Grown Sapphire (1-1/2 ct. t.w.) and Lab Grown White Sapphire (1/5 ct. t.w.) Halo Ring in 10K Yellow Gold"
+title: "Sapphire Halo Ring in 10K Yellow Gold"
 date: 2019-10-28T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/22816995_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

@@ -1,5 +1,5 @@
 ---
-title: "2-Pc. Set Diamond Bangle Bracelets (1/5 ct. t.w.) in 14k Gold-Plated Sterling Silver"
+title: "2-Pc. Set Diamond Bangle Bracelets in 14k Gold-Plated Sterling Silver"
 date: 2019-9-21T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/28570027_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

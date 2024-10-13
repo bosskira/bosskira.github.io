@@ -1,5 +1,5 @@
 ---
-title: "Nude Diamond (1/10 ct. t.w.) & Chocolate Diamond (1/6 ct. t.w.) Sun Pendant Necklace in 14k Gold"
+title: "Sun Pendant Necklace in 14k Gold & Diamond"
 date: 2019-10-30T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
