@@ -1,7 +1,6 @@
 ---
-title: "Diamond Solitaire 18 Pendant Necklace (3/4 ct. t.w.) in 14k White Gold
-"
-date: 2019-10-17T11:22:16+06:00
+title: "Diamond Solitaire 18 Pendant Necklace (3/4 ct. t.w.) in 14k White Gold"
+date: 2019-10-27T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/15064019_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
   - "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/15064024_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&wid=600&fmt=webp"
@@ -13,7 +12,7 @@ description : "https://www.macys.com/shop/product/trumiracle-diamond-solitaire-1
 
 # product Price
 price: "2800"
-discount_price: "1389.99"
+discount_price: "1489.99"
 
 # product variation
 # colors : ["black","white","gray"]

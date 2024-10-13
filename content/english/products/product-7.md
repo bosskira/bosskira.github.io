@@ -1,6 +1,6 @@
 ---
-title: "Diamond Chain Link Ring (1/10 ct. t.w.) in Gold Vermeil, Created for Macy's"
-date: 2019-10-17T11:22:16+06:00
+title: "Diamond Chain Link Ring (1/10 ct. t.w.) in Gold Vermeil"
+date: 2019-10-20T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/25174064_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
   - "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/25174065_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"

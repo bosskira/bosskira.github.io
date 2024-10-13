@@ -1,33 +1,77 @@
 ---
-title: "Terms & Conditions"
+title: "Privacy Policy"
 description: "This is a meta description"
 draft: false
 ---
 
-Please read the terms and conditions stated below, which outline important legal information. Our aim is to always take care of both our customers and ourselves. We've included these terms to legally protect us, but if you have an issue, always feel free to email us at support@luxuril.com and we'll do our best to resolve it in a fair and timely manner.
+This Privacy Policy outlines how Luxuril ("we," "us," or "our") collects, uses, and protects your information when you visit our website or make a purchase. We are committed to ensuring that your privacy is protected.
 
-### Product Purchase & Delivery Policy
+### Information We Collect
 
-1. All payments are processed securely through PayPal or Stripe. Luxuril does not directly process payments through the website. Therefore, Luxuril will not be responsible for any payment-related issues.
-2. We offer tangible products, and all orders are processed and shipped within 2-3 business days. Delivery times may vary based on your location and the shipping method selected.
+1. **Personal Information:**  
+   When you make a purchase, register on our site, or contact us, we may collect personal information that includes your name, email address, phone number, billing address, shipping address, and payment information.
 
-### Refund Policy
+2. **Non-Personal Information:**  
+   We may also collect non-personal information such as browser type, IP address, device type, and usage data when you visit our website.
 
-1. If you are not satisfied with your purchase, you have 14 days to return the product for a full refund. The product must be in its original condition and packaging.
-2. To initiate a return, please contact us at support@luxuril.com with your order details. We will provide you with instructions on how to return the product.
-3. When you make a qualifying return, we will credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### How We Use Your Information
 
-### Support Policy
+We use the information we collect for the following purposes:
 
-1. If there is a problem with one of our products or if you experience any difficulty, we will fix the problem.
-2. You have 24 hours to inspect your purchase and determine if it meets your expectations. If you wish to receive a refund, Luxuril will issue you a refund and ask you to specify how the product failed to meet your expectations.
-3. When you make a qualifying return, we will credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1. **Order Processing:**  
+   To process and fulfill your orders, manage payments, and provide customer support.
 
-### Why We Support:
+2. **Communication:**  
+   To send you order confirmations, updates, newsletters, and promotional offers that may interest you.
 
-1. Support covers getting up and help in product setup.
-2. Help using features and product options.
-3. Bug fixes – if you discover a defect in the product, we will fix it.
-4. Functionality that does not work as advertised.
+3. **Website Improvement:**  
+   To analyze user behavior and improve our website, products, and services.
 
-Luxuril is not liable for any issues arising from the use of our products or services.
+4. **Legal Compliance:**  
+   To comply with applicable laws, regulations, and legal requests.
+
+### How We Protect Your Information
+
+We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure, we have implemented suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+1. **Secure Transactions:**  
+   All payment transactions are processed through secure payment gateways (PayPal and Stripe) and are not stored on our servers.
+
+2. **Data Retention:**  
+   We will retain your personal information only for as long as necessary to fulfill the purposes outlined in this privacy policy.
+
+### Sharing Your Information
+
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except in the following circumstances:
+
+1. **Service Providers:**  
+   We may share your information with third-party service providers who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+
+2. **Legal Requirements:**  
+   We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+
+### Your Rights
+
+You have the right to:
+
+1. **Access:**  
+   Request copies of your personal information.
+
+2. **Correction:**  
+   Request correction of any incomplete or inaccurate information.
+
+3. **Deletion:**  
+   Request deletion of your personal information, subject to certain exceptions.
+
+4. **Withdraw Consent:**  
+   Withdraw consent at any time where we are relying on consent to process your personal information.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "effective date" at the top of this policy.
+
+### Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
+**Email:** store.luxuril@gmail.com  
+**Brand:** Luxuril

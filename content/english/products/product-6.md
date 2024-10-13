@@ -1,7 +1,6 @@
 ---
-title: "Flower Cubic Zirconia Tennis Bracelet for Women with Round Cut Sapphire Cubic Zirconia
-"
-date: 2019-10-17T11:22:16+06:00
+title: "Flower Cubic Zirconia Tennis Bracelet for Women with Round Cut Sapphire Cubic Zirconia"
+date: 2019-10-24T11:22:16+06:00
 images: 
   - "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/30062651_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
   - "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/30062650_fpx.tif?op_sharpen=1&wid=500&fit=fit,1&fmt=webp"
