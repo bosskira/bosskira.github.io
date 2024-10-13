@@ -18,7 +18,7 @@ discount_price: "1399.99"
 
 # product variation
 # colors : ["black","white","gray"]
-sizes : ["6,7,8,9,10"]
+sizes : ["6","7","8","9","10"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
