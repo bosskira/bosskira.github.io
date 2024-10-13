@@ -10,7 +10,7 @@ images:
 
 
 # meta description
-description : "https://www.macys.com/shop/product/grown-with-love-igi-certified-lab-grown-diamond-marquise-1-ct.-t.w.-band-in-14k-white-gold?ID=17216152&isDlp=true"
+description : "https://www.macys.com/shop/product/macys-lab-grown-sapphire-1-1-2-ct.-t.w.-lab-grown-white-sapphire-1-5-ct.-t.w.-halo-ring-in-10k-yellow-gold?ID=14878780"
 
 # product Price
 price: "2000.00"
@@ -25,6 +25,12 @@ button_link: "#"
 
 draft: false
 ---
+**Product Detials**
+
+This beautiful halo ring is a timeless classic featuring a spectacular lab grown sapphire with sapphire adorning the halo and shank.
+
+*(1-1/2 ct. t.w.) 8mm x 6mm Lab Grown sapphire, (1/5 ct. t.w.) 1mm round Lab Grown white sapphire*  
+- Set in **10K yellow gold**
 
 # Lab Created Sapphires vs. Mined Sapphires
 

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/products/</loc>
-    <lastmod>2019-10-30T11:22:16+06:00</lastmod>
+    <lastmod>2019-10-31T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-10-30T11:22:16+06:00</lastmod>
+    <lastmod>2019-10-31T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -26,6 +26,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/products/product-1/</loc>
+    <lastmod>2019-10-31T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/products/product-1/"
                 />
   </url><url>
     <loc>http://localhost:1313/products/product-5/</loc>
@@ -52,19 +65,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/products/product-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/product-1/</loc>
-    <lastmod>2019-10-28T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/products/product-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/products/product-1/"
                 />
   </url><url>
     <loc>http://localhost:1313/products/product-2/</loc>
